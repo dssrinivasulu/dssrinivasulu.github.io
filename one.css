@@ -1,0 +1,279 @@
+.one{
+    font-size: larger;
+    font-style: italic;
+}
+
+.two {
+    font-size:medium;
+}
+
+.three:hover{
+    background-color: red;
+}
+
+
+.three{
+    font-size: x-large;
+    border-radius: 50px;
+    background-color: grey;
+}
+
+.four{
+    background-color:whitesmoke;
+}
+
+.five{
+    text-align: center;
+    font-style: italic;
+}
+
+.six{
+    text-align: center;
+    font-size: medium;
+}
+
+.seven{
+    text-align: center;
+    font-style: italic;
+}
+
+.about{
+    text-align: center;
+    font-style: oblique;
+}
+
+.color-1{
+    color: white;
+    background-color: black;
+}
+
+.our{
+    text-align: center;
+    font-style: oblique;
+}
+
+.color-2{
+    color: white;
+    background-color: black;
+}
+
+.color-3{
+    background-color: whitesmoke;
+}
+
+.eight{
+    text-align: center;
+    font-style: italic;
+}
+
+.nine{
+    text-align: center;
+    font-size: medium;
+}
+
+.A{
+    color: red;
+}
+
+.ten{
+    background-color: antiquewhite;
+}
+
+.eleven{
+    text-align: center;
+    font-style: italic;
+}
+
+.B{
+    background-image: url(./Images/back.webp);
+}
+
+.C{
+    background-color:black;
+}
+
+.D{
+    color: white;
+}
+
+.E{
+    color:bisque;
+}
+
+.F{
+    color: white;
+}
+
+.AB{
+    color: bisque;
+    font-size: medium;
+}
+
+.CD{
+    color: bisque;
+    font-size: medium;
+}
+
+.EF{
+    color: bisque;
+    font-size: medium;
+}
+
+.GH{
+    color: bisque;
+    font-size: medium;
+}
+
+.IJ{
+    color: bisque;
+    font-size: medium;
+}
+
+.KL{
+    color: bisque;
+    font-size: medium;
+}
+
+.G{
+    color: white;
+}
+
+.H:hover{
+    background-color:red;
+}
+
+/* .card:hover{
+    transform: scale(o.3);
+    transition: 1s;
+    z-index: 2;
+} */
+
+.zoom-1 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-2 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-3 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-4 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-5 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-6 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-7 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-8 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-9 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-10 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-11 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-12 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-13 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-14 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-15 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-16 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-17 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.zoom-18 img:hover{
+    transition: 1s;
+    transform: scale(1.1);
+    z-index: 2;   
+}
+
+.End{
+    
+}
+
+.End-1{
+    text-align: center;
+}
+
+.End-2{
+    text-align: center;
+}
+
+.but:hover{
+    background-color: red;
+}
+
+.but{
+    font-size: x-large;
+    border-radius: 50px;
+    background-color: grey;
+}
